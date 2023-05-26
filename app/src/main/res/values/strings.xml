@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string-array name="countryName">
+        <item>usa</item>
+        <item>china</item>
+        <item>france</item>
+        <item>england</item>
+        <item>nepal</item>
+        <item>italy</item>
+
+
+    </string-array>
+
+    <string-array name="countryDetails">
+        <item>usa is beautiful</item>
+        <item>china is beautiful</item>
+        <item>france is beautiful</item>
+        <item>england is beautiful</item>
+        <item>nepal is beautiful</item>
+        <item>italy is beautiful</item>
+
+
+
+    </string-array>
+
+</resources>
